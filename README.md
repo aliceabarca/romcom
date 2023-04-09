@@ -1,12 +1,19 @@
+<<<<<<< HEAD
+=======
  
 ______________________________________________________  
+>>>>>>> 2b11033aae1006f4a7b64b7951d00d8e51e3079a
 
 # RomCom  
 
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
+<<<<<<< HEAD
+ 
+=======
 we built a web page that is designed to display random romcom covers and be able to display home made covers as well . the app is solving how to create a new cover for a rom com.
 
+>>>>>>> 2b11033aae1006f4a7b64b7951d00d8e51e3079a
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?) the steps the have to take are:
 1. git a local copy of the romcom repository on their computer. 
